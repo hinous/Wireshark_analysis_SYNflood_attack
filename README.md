@@ -23,9 +23,8 @@ To restore service and harden the infrastructure, the following actions were tak
 * **SYN Cookies**: Recommended enabling SYN Cookies to validate connections without pre-allocating memory resources.
 
 ## 📂 Repository Files
-* `Cybersecurity_incident_report.pdf`: Detailed diagnosis and remediation plan.
-* `Wireshark_TCP_HTTP_log.pdf`: The packet capture analyzed during the incident.
-* `Wireshark_Analysis_Guide.pdf`: Technical reference for interpreting TCP flags.
-
+* [Cybersecurity_incident_report.docx](./Cybersecurity%20incident%20report.docx) - Detailed diagnosis and remediation plan.
+* [Wireshark_TCP_HTTP_log.pdf](./Wireshark%20TCP_HTTP%20log%20-%20TCP%20log.pdf) - The packet capture analyzed during the incident.
+* [How_to_read_Wireshark_log.pdf](./How%20to%20read%20a%20Wireshark%20TCP_HTTP%20log.pdf) - Technical reference for interpreting TCP flags.
 ---
 *This project is part of my cybersecurity analysis portfolio, demonstrating skills in incident response and network traffic analysis.*
